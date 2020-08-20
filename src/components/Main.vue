@@ -167,7 +167,7 @@ export default {
       this.chartData.labels.length = 0;
       try {
         let _result = await axios.get(
-          "https://covidtracking.com/api/v1/states/" +
+          "https://api.covidtracking.com/api/v1/states/" +
             this.selected +
             "/daily.json"
         );
