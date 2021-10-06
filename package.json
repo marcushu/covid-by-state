@@ -20,11 +20,13 @@
     "lodash": ">=4.17.21",
     "node-forge": ">=0.10.0",
     "normalize-url": ">=4.5.1",
+    "nth-check": ">=2.0.1",
     "path-parse": ">=1.0.7",
     "postcss": ">=7.0.36",
-    "url-parse": ">=1.5.0",
+    "url-parse": ">=1.5.2",
     "vue": "^2.6.11",
     "vue-chartjs": "^3.5.0",
+    "set-value": ">=4.0.1",
     "ssri": ">=6.0.2",
     "is-svg": ">=4.2.2"
   },
@@ -47,7 +49,6 @@
     "sass": "^1.19.0",
     "sass-loader": "^8.0.0",
     "ssri": ">=6.0.2",
-    "url-parse": ">=1.5.0",
     "vue-cli-plugin-bootstrap-vue": "~0.6.0",
     "vue-template-compiler": "^2.6.11"
   },
